@@ -1,0 +1,14 @@
+C:\proyectos\app\bin\Debug\net10.0\app.exe
+C:\proyectos\app\bin\Debug\net10.0\app.deps.json
+C:\proyectos\app\bin\Debug\net10.0\app.runtimeconfig.json
+C:\proyectos\app\bin\Debug\net10.0\app.dll
+C:\proyectos\app\bin\Debug\net10.0\app.pdb
+C:\proyectos\app\obj\Debug\net10.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\app\obj\Debug\net10.0\app.AssemblyInfoInputs.cache
+C:\proyectos\app\obj\Debug\net10.0\app.AssemblyInfo.cs
+C:\proyectos\app\obj\Debug\net10.0\app.csproj.CoreCompileInputs.cache
+C:\proyectos\app\obj\Debug\net10.0\app.dll
+C:\proyectos\app\obj\Debug\net10.0\refint\app.dll
+C:\proyectos\app\obj\Debug\net10.0\app.pdb
+C:\proyectos\app\obj\Debug\net10.0\app.genruntimeconfig.cache
+C:\proyectos\app\obj\Debug\net10.0\ref\app.dll
