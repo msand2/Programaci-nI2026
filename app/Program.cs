@@ -1,4 +1,5 @@
-﻿/*Console.WriteLine(45);
+﻿//video3
+Console.WriteLine(45);
 Console.WriteLine("informaticonfig");
 Console.WriteLine (50 + 60);
 
@@ -33,7 +34,7 @@ Console.WriteLine ("nombre de usuario " + nombre);
 Console.WriteLine ("edad " + edad);
 
 Console.WriteLine ($"nombre de usuario {nombre}", edad en 10 años: {edad + 5}");
-
+//video7
 console.writeline($"nombre de usuario {nombre}, edad: {edad}");
 
 //video8
@@ -75,7 +76,7 @@ int numero = Convert.ToInt32(palabra);
 Console.WriteLine (numero);
 
 string textodecimal = "150.60"; 
-double valor3 = double.Parse(textodecimal);*/
+double valor3 = double.Parse(textodecimal);
 
 //video10
 //operador de suma 
