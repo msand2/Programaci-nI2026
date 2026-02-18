@@ -1,0 +1,26 @@
+1. ¿Qué es GIT?
+es un sistema de control de versiones, en un sistema que administra las distintas versiones de un programa
+lo usan los programadores que saben que su proyecto va a crecer a medida que el tiempo va haciendo cambios.
+el sistema de control de versiones mas famoso y utilizado es GIT
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+git init: aquí le decimos al sistema que crearemos un proyecto nuevo
+git add: es para pasar los archivos del working directory al staging área 
+git status: es para ver en que estado están mis archivos, por ejemplo si están en el working directory
+git commit: es para pasar archivos del staging área al repositorio
+git push: es para subirlo a un repositorio remoto 
+git pull: es para cuando se esta trabajando con varios desarrolladores, se suben también los cambios que han hecho los demás desarrolladores
+git clone: hace una copia desde el servidor central donde esta el código, a mi computadora
+
+3. ¿Cuál es la diferencia entre Git y Github?
+GIT guarda el historial de cambios en una computadora mientras que GitHub sirve para compartir códigos y colaborar con otros desarrolladores
+
+4. Enumere los comandos para subir cambios a un repositorio.
+git init: sirve para crear un repositorio nuevo
+git add: prepara los archivos 
+git commit: guarda los cambios 
+git remote add origin: conecta mi repositorio local con GitHub 
+git push: sube los commits al repositorio remoto 
+
+5. ¿Qué es una branch  
+es una línea de trabajo independiente dentro del mismo proyecto.
